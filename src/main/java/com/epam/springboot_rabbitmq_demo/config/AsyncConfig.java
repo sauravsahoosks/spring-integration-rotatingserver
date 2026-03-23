@@ -1,3 +1,4 @@
+package com.epam.springboot_rabbitmq_demo.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.EnableAsync;
